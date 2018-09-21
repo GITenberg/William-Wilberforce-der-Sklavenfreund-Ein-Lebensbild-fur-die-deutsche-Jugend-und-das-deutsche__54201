@@ -1,11 +1,16 @@
 _repo: William-Wilberforce-der-Sklavenfreund-Ein-Lebensbild-fur-die-deutsche-Jugend-und-das-deutsche__54201
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54201-h/images/cover.jpg
 creator:
   author:
     agent_name: Oertel, Hugo
     gutenberg_agent_id: '47760'
     url: http://www.gutenberg.org/2009/agents/47760
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54201#William-Wilberforce-der-Sklavenfreund-Ein-Lebensbild-fur-die-deutsche-Jugend-und-das-deutsche_
 gutenberg_issued: '2017-02-19'
 gutenberg_type: Text
 identifiers:
